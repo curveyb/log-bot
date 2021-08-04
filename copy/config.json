@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "!",
+    "loggerChannelID": "LOGS_CHANNEL", 
+    "webhook": {
+       "id": "WEBHOOK_ID",
+       "token": "WEBHOOK_TOKEN"
+    }
+ }
